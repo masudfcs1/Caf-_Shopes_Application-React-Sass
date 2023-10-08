@@ -17,6 +17,8 @@ const OpenSection = () => {
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi
               dolorem sint officia delectus repellendus suscipit nulla ut
               facilis soluta laboriosam fugiat ducimus distinctio, natus ex.
+              Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Similique, asperiores.
             </p>
           </div>
         </div>
@@ -26,7 +28,9 @@ const OpenSection = () => {
             <p>
               Lorem ipsum dolor sit, amet consectetur adipisicing elit. Nisi
               dolorem sint officia delectus repellendus suscipit nulla ut
-              facilis soluta laboriosam fugiat ducimus distinctio, natus ex.
+              facilis soluta laboriosam fugiat ducimus distinctio, natus
+              ex.Lorem ipsum dolor sit amet consectetur adipisicing elit.
+              Similique, asperiores.
             </p>
           </div>
           <div>
