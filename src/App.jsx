@@ -6,6 +6,7 @@ import FlowerSection from "./components/FlowerSection/FlowerSection";
 import Cta from "./components/Cta/Cta";
 import Pastries from "./components/Pastries/Pastries";
 import Reservation from "./components/Reservation/Reservation";
+import Footer from "./components/Footer/Footer";
 
 const App = () => {
   return (
@@ -18,6 +19,7 @@ const App = () => {
       <Cta />
       <Pastries />
       <Reservation />
+      <Footer />
     </div>
   );
 };
