@@ -5,6 +5,7 @@ import OpenSection from "./components/OpenSection/OpenSection";
 import FlowerSection from "./components/FlowerSection/FlowerSection";
 import Cta from "./components/Cta/Cta";
 import Pastries from "./components/Pastries/Pastries";
+import Reservation from "./components/Reservation/Reservation";
 
 const App = () => {
   return (
@@ -16,6 +17,7 @@ const App = () => {
       <FlowerSection />
       <Cta />
       <Pastries />
+      <Reservation />
     </div>
   );
 };
