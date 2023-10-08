@@ -4,6 +4,7 @@ import Stats from "./components/Stats/Stats";
 import OpenSection from "./components/OpenSection/OpenSection";
 import FlowerSection from "./components/FlowerSection/FlowerSection";
 import Cta from "./components/Cta/Cta";
+import Pastries from "./components/Pastries/Pastries";
 
 const App = () => {
   return (
@@ -14,6 +15,7 @@ const App = () => {
       <OpenSection />
       <FlowerSection />
       <Cta />
+      <Pastries />
     </div>
   );
 };
