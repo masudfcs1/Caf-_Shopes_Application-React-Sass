@@ -1,6 +1,6 @@
 # React + Vite
 
-Live Demo->https://cafe-shopes-c1mc3mw16-masudfcs1.vercel.app
+Live Demo->https://cafe-shopes.vercel.app/
 
 # [Live Demo](https://cafe-shopes.vercel.app/)
 
