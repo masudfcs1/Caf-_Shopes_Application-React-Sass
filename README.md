@@ -2,7 +2,7 @@
 
 Live Demo->https://cafe-shopes-c1mc3mw16-masudfcs1.vercel.app
 
-# [Live Demo](https://cafe-shopes-c1mc3mw16-masudfcs1.vercel.app)
+# [Live Demo](https://cafe-shopes.vercel.app/)
 
 ![cp1](https://github.com/masudfcs1/Cafe_Shopes_Application-React-Sass/assets/57311382/bf7ed734-3ec5-41bc-ae2e-6f428db2c2a0)
 ![cp2](https://github.com/masudfcs1/Cafe_Shopes_Application-React-Sass/assets/57311382/d27eeb99-5e04-41a1-bd3e-8b2af8244f44)
